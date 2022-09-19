@@ -1,10 +1,29 @@
-# challenge_9
-This is a readme generator that creates a readme based off of the users inputs and it generates a readme with a license on it.
 
-Image of generated readme:
-
-![image](https://user-images.githubusercontent.com/108495035/191125415-6905d10a-0f34-4ab0-b870-50452a606f2e.png)
-
-link to walkthrough video:
-
-https://youtu.be/R3BUMWqUkT0
+  # README Generator
+  ## Description
+  A generator that creates a readme based off of user input
+  ## License
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+This application is distributed under the [MIT](https://opensource.org/licenses/MIT) license.
+  ## Table of contents
+  - [License](#License)
+  - [Usage](#Usage)
+  - [Installation](#Installation)
+  - [Testing](#Testing)
+  - [Contributions](#Contributions)
+  ## Usage
+  open the folder in your coding program, open an integrated terminal and run "node index.js" and fill in the inputs
+  ## Installation
+  Download the readme generator code folder and open the folder in your coding program, open an integrated terminal and run "node index.js" and fill in the inputs
+  ## Tests
+  There is no errors
+  ## Contributors
+  Contributors: 
+  Nolan B
+  ## Questions
+  Find me on GitHub: <https://github.com/nolshark>
+  
+Reach me by email: nolanb28@gmail.com
+  
